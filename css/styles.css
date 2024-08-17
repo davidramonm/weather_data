@@ -6,7 +6,7 @@
 }
 
 body {
-    background: linear-gradient(180deg, rgba(89,76, 238) 0%, #8dd0f5 100%);
+    background: linear-gradient(180deg, rgb(236, 126, 36) 0%, #dff58d 100%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,7 +19,7 @@ body {
 }
 
 .container {
-    background-color: #5c54ed;
+    background-color: #ed8c54;
     box-shadow: rgba(0,0,0, 0.24) 0px 3px 8px;
     padding: 2rem;
     color: #fdfdfd;
@@ -47,7 +47,7 @@ body {
     padding: 0.08rem;
     min-width: 50px;
     margin-left: 8px;
-    background-color: #8dd0f5;
+    background-color: #f5dd8d;
     color: #fff;
     border: none;
     border-radius: 4px;
